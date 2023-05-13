@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.AssemblyInfo.cs
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ProjetoCarro\bin\Debug\net6.0\ProjetoCarro.exe
+C:\Users\crist\source\repos\ProjetoCarro\bin\Debug\net6.0\ProjetoCarro.deps.json
+C:\Users\crist\source\repos\ProjetoCarro\bin\Debug\net6.0\ProjetoCarro.runtimeconfig.json
+C:\Users\crist\source\repos\ProjetoCarro\bin\Debug\net6.0\ProjetoCarro.dll
+C:\Users\crist\source\repos\ProjetoCarro\bin\Debug\net6.0\ProjetoCarro.pdb
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.dll
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\refint\ProjetoCarro.dll
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.pdb
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ProjetoCarro.genruntimeconfig.cache
+C:\Users\crist\source\repos\ProjetoCarro\obj\Debug\net6.0\ref\ProjetoCarro.dll

@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\ProjetoDeFigura\bin\Debug\net6.0\ProjetoDeFigura.exe
+C:\Users\crist\source\repos\ProjetoDeFigura\bin\Debug\net6.0\ProjetoDeFigura.deps.json
+C:\Users\crist\source\repos\ProjetoDeFigura\bin\Debug\net6.0\ProjetoDeFigura.runtimeconfig.json
+C:\Users\crist\source\repos\ProjetoDeFigura\bin\Debug\net6.0\ProjetoDeFigura.dll
+C:\Users\crist\source\repos\ProjetoDeFigura\bin\Debug\net6.0\ProjetoDeFigura.pdb
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.AssemblyInfo.cs
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.dll
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\refint\ProjetoDeFigura.dll
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.pdb
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ProjetoDeFigura.genruntimeconfig.cache
+C:\Users\crist\source\repos\ProjetoDeFigura\obj\Debug\net6.0\ref\ProjetoDeFigura.dll

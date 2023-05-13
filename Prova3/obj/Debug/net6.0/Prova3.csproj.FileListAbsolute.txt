@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\Prova3\bin\Debug\net6.0\Prova3.exe
+C:\Users\crist\source\repos\Prova3\bin\Debug\net6.0\Prova3.deps.json
+C:\Users\crist\source\repos\Prova3\bin\Debug\net6.0\Prova3.runtimeconfig.json
+C:\Users\crist\source\repos\Prova3\bin\Debug\net6.0\Prova3.dll
+C:\Users\crist\source\repos\Prova3\bin\Debug\net6.0\Prova3.pdb
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.AssemblyInfo.cs
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.dll
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\refint\Prova3.dll
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.pdb
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\Prova3.genruntimeconfig.cache
+C:\Users\crist\source\repos\Prova3\obj\Debug\net6.0\ref\Prova3.dll

@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.AssemblyInfo.cs
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Prova6Codigo1\bin\Debug\net6.0\Prova6Codigo1.exe
+C:\Users\crist\source\repos\Prova6Codigo1\bin\Debug\net6.0\Prova6Codigo1.deps.json
+C:\Users\crist\source\repos\Prova6Codigo1\bin\Debug\net6.0\Prova6Codigo1.runtimeconfig.json
+C:\Users\crist\source\repos\Prova6Codigo1\bin\Debug\net6.0\Prova6Codigo1.dll
+C:\Users\crist\source\repos\Prova6Codigo1\bin\Debug\net6.0\Prova6Codigo1.pdb
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.dll
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\refint\Prova6Codigo1.dll
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.pdb
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\Prova6Codigo1.genruntimeconfig.cache
+C:\Users\crist\source\repos\Prova6Codigo1\obj\Debug\net6.0\ref\Prova6Codigo1.dll

@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.AssemblyInfo.cs
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Matricula\bin\Debug\net6.0\Matricula.exe
+C:\Users\crist\source\repos\Matricula\bin\Debug\net6.0\Matricula.deps.json
+C:\Users\crist\source\repos\Matricula\bin\Debug\net6.0\Matricula.runtimeconfig.json
+C:\Users\crist\source\repos\Matricula\bin\Debug\net6.0\Matricula.dll
+C:\Users\crist\source\repos\Matricula\bin\Debug\net6.0\Matricula.pdb
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.dll
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\refint\Matricula.dll
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.pdb
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\Matricula.genruntimeconfig.cache
+C:\Users\crist\source\repos\Matricula\obj\Debug\net6.0\ref\Matricula.dll

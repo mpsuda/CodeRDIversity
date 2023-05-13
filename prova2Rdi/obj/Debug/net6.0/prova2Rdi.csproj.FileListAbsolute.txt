@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\prova2Rdi\bin\Debug\net6.0\prova2Rdi.exe
+C:\Users\crist\source\repos\prova2Rdi\bin\Debug\net6.0\prova2Rdi.deps.json
+C:\Users\crist\source\repos\prova2Rdi\bin\Debug\net6.0\prova2Rdi.runtimeconfig.json
+C:\Users\crist\source\repos\prova2Rdi\bin\Debug\net6.0\prova2Rdi.dll
+C:\Users\crist\source\repos\prova2Rdi\bin\Debug\net6.0\prova2Rdi.pdb
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.AssemblyInfo.cs
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.dll
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\refint\prova2Rdi.dll
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.pdb
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\prova2Rdi.genruntimeconfig.cache
+C:\Users\crist\source\repos\prova2Rdi\obj\Debug\net6.0\ref\prova2Rdi.dll

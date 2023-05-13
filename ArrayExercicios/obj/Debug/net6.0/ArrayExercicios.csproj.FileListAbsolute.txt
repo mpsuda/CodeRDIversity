@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.AssemblyInfo.cs
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ArrayExercicios\bin\Debug\net6.0\ArrayExercicios.exe
+C:\Users\crist\source\repos\ArrayExercicios\bin\Debug\net6.0\ArrayExercicios.deps.json
+C:\Users\crist\source\repos\ArrayExercicios\bin\Debug\net6.0\ArrayExercicios.runtimeconfig.json
+C:\Users\crist\source\repos\ArrayExercicios\bin\Debug\net6.0\ArrayExercicios.dll
+C:\Users\crist\source\repos\ArrayExercicios\bin\Debug\net6.0\ArrayExercicios.pdb
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.dll
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\refint\ArrayExercicios.dll
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.pdb
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ArrayExercicios.genruntimeconfig.cache
+C:\Users\crist\source\repos\ArrayExercicios\obj\Debug\net6.0\ref\ArrayExercicios.dll

@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\prova1\prova1\bin\Debug\net6.0\prova1.exe
+C:\Users\crist\source\repos\prova1\prova1\bin\Debug\net6.0\prova1.deps.json
+C:\Users\crist\source\repos\prova1\prova1\bin\Debug\net6.0\prova1.runtimeconfig.json
+C:\Users\crist\source\repos\prova1\prova1\bin\Debug\net6.0\prova1.dll
+C:\Users\crist\source\repos\prova1\prova1\bin\Debug\net6.0\prova1.pdb
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.AssemblyInfo.cs
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.dll
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\refint\prova1.dll
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.pdb
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\prova1.genruntimeconfig.cache
+C:\Users\crist\source\repos\prova1\prova1\obj\Debug\net6.0\ref\prova1.dll
